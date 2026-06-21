@@ -69,7 +69,14 @@ The model successfully predicts stock prices based on historical trends and show
 - Deploy on cloud (Streamlit Cloud / AWS)  
 
 ---
+## 📷 Project Demo
+http://localhost:8501/
 
+---
+
+## 🔗 Live Demo (Optional)
+If deployed on Streamlit Cloud:
+http://localhost:8501/
 ## 📢 Note
 This project is part of my AI/ML Engineering Internship at DevelopersHub Corporation.
 
